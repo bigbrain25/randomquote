@@ -1,0 +1,21 @@
+.quote{
+    width: 50vw;
+    height: 20vh;
+    background-color: aquamarine;
+    margin: auto;
+    padding: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+.container {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+button{
+    margin-top: 10px;
+    background: skyblue;
+    height: 40px;
+    width: 100px;
+    border: transparent;
+}
